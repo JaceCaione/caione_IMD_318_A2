@@ -54,12 +54,12 @@ h3 {
         height: 23px;
         vertical-align: middle;
         cursor: pointer;
-        background-image: url('src/lib/image/circle.png');
+        background-image: url('$lib/image/circle.png');
         background-size: contain;
         background-position: center;
     }
     input[type="checkbox"]:checked {
-        background-image: url('src/lib/image/checkbox.png');
+        background-image: url('$lib/image/checkbox.png');
         display: inline-block;
         width: 20px;
         height: 20px;

@@ -37,7 +37,7 @@ h3 {
     button {
         border: 0;
         background-color: transparent;
-        background-image: url('src/lib/image/cross.png');
+        background-image: url('$lib/image/cross.png');
         background-size: contain;
         background-position: center;
         display: inline-block;
